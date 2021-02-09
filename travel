@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        
+        <style>
+            body{
+                background-color:rgb(241, 255, 161);
+            }
+            
+            h2{
+                color:green;
+            }
+            #first{
+                color:blue;
+            }
+            
+            .wild-natures{
+                background-color: rgb(41, 16, 41);
+            }
+        </style>
+        
+    </head>
+    <body>
+    
+        <h1><em>Travel to Iceland...</em></h1>
+        
+        <img src="https://www.kasandbox.org/programming-images/space/background.png" alt="Iceland" width="515"
+        height="305">
+        
+        <h2>Why Iceland?</h2>
+        
+        <p>     The culture of Iceland is rich and varied as well as being known for its literary heritage which began in the 12th century. Icelandic traditional arts include weaving, silversmithing, and wood carving. The Reykjavík area has several professional theaters, a symphony orchestra, an opera and many art galleries, bookstores, cinemas and museums. There are four active folk dance ensembles in Iceland. Iceland's literacy rate is among the highest in the world, and a love of literature, art, chess, and other intellectual pursuits is widespread.</p>
+        
+        <ul id="first">
+            <li>Beautiful Landscape</li>
+            <li>Beautiful Peoples</li>
+            <li>A Wide Range of Activities and                sights to see!</li>
+        </ul>
+        
+        <h2 class="wild-natures">Wild Natures</h2>
+        
+        <ul>
+            <li><em>Geysers, Volcanoes, Mountains</em>,               and fields of <strong>Permafrost!</strong></li>
+            <li>World renowned Nightlife in                   reykjavik, the Capital</li> 
+            <li>5 <strong>Michelin Star</strong>             Restaurants in <em>Downtown Reykjavik!</em></li>
+                
+        </ul>
+        
+        <img src="https://www.kasandbox.org/programming-images/space/star.png">
+        
+        <p>Icelandic architecture draws from Scandinavia and traditionally was influenced by the lack of native trees on the island. As a result, grass and turf-covered houses were developed. The original grass houses constructed by the original settlers of Iceland were based on Viking longhouses.</p>
+        
+        <h2>Welcome to Iceland!</h2>
+        
+        <img src="https://www.kasandbox.org/programming-images/space/planet.png">
+        
+    </body>
+</html>
